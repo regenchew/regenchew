@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I'm currently working on a personal project as a show of my interest towards the world of coding. 
+I'm currently learning coding from CS50P. I'm on week 7: Regualr Expression
+I hope i can come up with a small project before 19th March, the date of Uni submission, if not im cooked LOL
+
 <!--
 **regenchew/regenchew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
